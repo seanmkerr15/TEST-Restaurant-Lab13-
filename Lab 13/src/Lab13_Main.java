@@ -45,6 +45,7 @@ public class Lab13_Main {
 		System.out.println("Phone Number: " + rest3.getPhoneNumber());
 		System.out.println("Rating: " + rest3.getRating());
 		System.out.println();
+		System.out.print("It pushed");
 		
 	}
 
